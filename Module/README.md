@@ -1,5 +1,6 @@
 # Surge配置文件及模块 
 
+## 1、Panel面板模块
 |Panel模块|链接|raw参考链接|repo参考链接|说明|
 |--|--|--|--|--|
 |Flush-DNS|[链接地址](https://raw.githubusercontent.com/Fedlimit/Profiles/main/Module/Panel/Flush-DNS/Flush-DNS.sgmodule)|[raw参考链接](https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Flush-DNS/Moore/Flush-DNS.sgmodule)|[repo参考链接](https://github.com/Rabbit-Spec/Surge/blob/Master/Module/Panel/Flush-DNS)|快速清除Surge DNS缓存的面板
@@ -8,6 +9,7 @@
 |Network-Info|[链接地址](https://raw.githubusercontent.com/Fedlimit/Profiles/main/Module/Panel/Network-Info/Network-Info.sgmodule)|[raw参考链接](https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Network-Info/Moore/Network-Info.sgmodule)|[repo参考链接](https://github.com/Rabbit-Spec/Surge/blob/Master/Module/Panel/Network-Info)|展示网络信息的面板
 |Stream-All|[链接地址](https://raw.githubusercontent.com/Fedlimit/Profiles/main/Module/Panel/Stream-All/Stream-All.sgmodule)|[raw参考链接](https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Stream-All/Moore/Stream-All.sgmodule)|[repo参考链接](https://github.com/Rabbit-Spec/Surge/blob/Master/Module/Panel/Stream-All)|检测节点流媒体解锁情况的面板
 
+## 2、自用模块
 |模块|链接|raw参考链接|repo参考链接|说明|
 |--|--|--|--|--|
 |ali-doh|[链接地址](https://raw.githubusercontent.com/Fedlimit/Profiles/main/Module/Spec/ali-doh.sgmodule)|[raw参考链接](https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Spec/DoH/Moore/Ali-DoH.sgmodule)|[repo参考链接](https://github.com/Rabbit-Spec/Surge/blob/Master/Module/Spec/DoH/Moore/Ali-DoH.sgmodule)|阿里DoH
