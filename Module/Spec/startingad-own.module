@@ -116,8 +116,6 @@ https://ccsp-egmas.sf-express.com/cx-app-base/base/app/ad/queryAdImages reject
 ^https:\/\/gw.alicdn.com\/tps\/.+\d{3,4}-\d{4} reject
 # > xiaolishenghuo
 ^https?:\/\/mpos-pic\.helipay\.com\/upload\/images\/advertisment reject
-# > mitu
-^https:\/\/ad.xunkids.com reject
 
 
 # ======= Z ======= #
@@ -138,4 +136,4 @@ https://ccsp-egmas.sf-express.com/cx-app-base/base/app/ad/queryAdImages reject
 
 
 [MITM]
-hostname = %APPEND% app-gw.csdn.net, cn-acs.m.cainiao.com, acs.m.taobao.com, creditcardapp.bankcomm.cn, webappcfg.paas.cmbchina.com, m.creditcard.ecitic.com, lban.spdb.com.cn, access.mypikpak.com, 3g.csair.com, api-new.app.acfun.cn, gd.10086.cn, sdk.alibaba.com.ailbaba.me, yunbusiness.ccb.com, client.app.coc.10086.cn, ios.sspai.com, g.alicdn.com, api.pinduoduo.com, api.yangkeduo.com, mpos-pic.helipay.com, peisongapi.meituan.com, syh.zybang.com, api. img.meituan.net, discardrp.umetrip.com, startup.umetrip.com, acs.m.taobao.com, www.meituan.com, ccsp-egmas.sf-express.com, gab.122.gov.cn, creditcardapp.bankcomm.com, elemecdn.com, fuss10.elemecdn.com, www1.elecfans.com, s3plus.meituan.net, flowplus.meituan.net, p*.meituan.net, ms.jr.jd.com, wmapi.meituan.com, bdsp-x.jd.com, dsp-x.jd.com, api.m.jd.com, ad.xunkids.com
+hostname = %APPEND% app-gw.csdn.net, cn-acs.m.cainiao.com, acs.m.taobao.com, creditcardapp.bankcomm.cn, webappcfg.paas.cmbchina.com, m.creditcard.ecitic.com, lban.spdb.com.cn, access.mypikpak.com, 3g.csair.com, api-new.app.acfun.cn, gd.10086.cn, sdk.alibaba.com.ailbaba.me, yunbusiness.ccb.com, client.app.coc.10086.cn, ios.sspai.com, g.alicdn.com, api.pinduoduo.com, api.yangkeduo.com, mpos-pic.helipay.com, peisongapi.meituan.com, syh.zybang.com, api. img.meituan.net, discardrp.umetrip.com, startup.umetrip.com, acs.m.taobao.com, www.meituan.com, ccsp-egmas.sf-express.com, gab.122.gov.cn, creditcardapp.bankcomm.com, elemecdn.com, fuss10.elemecdn.com, www1.elecfans.com, s3plus.meituan.net, flowplus.meituan.net, p*.meituan.net, ms.jr.jd.com, wmapi.meituan.com, bdsp-x.jd.com, dsp-x.jd.com, api.m.jd.com
