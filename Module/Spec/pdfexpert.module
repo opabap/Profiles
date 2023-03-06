@@ -3,5 +3,6 @@
 
 [Script]
 PDF—Expert=type=http-response,pattern=^https:\/\/license\.pdfexpert\.com\/api\/2\.0\/pdfexpert7\/subscription\/refresh,requires-body=1,script-path=https://raw.githubusercontent.com/Fedlimit/Script/main/pdfexpert.js
+
 [MITM] 
 hostname = %APPEND% license.pdfexpert.com
