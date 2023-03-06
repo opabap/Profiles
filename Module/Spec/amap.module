@@ -21,4 +21,4 @@
 ^https?:\/\/.*\.amap\.com\/ws\/faas\/amap-navigation\/card-service-route-plan\? reject-dict
 
 [MITM]
-hostname= %APPEND% *.amap.com
+hostname = %APPEND% *.amap.com
