@@ -35,6 +35,8 @@
 - [@app2smile](https://github.com/app2smile)
 - [@deezertidal](https://github.com/deezertidal)
 - [@Rabbit-Spec](https://github.com/Rabbit-Spec)
+- [@Maasea](https://github.com/Maasea)
+- [@ddgksf2013](https://github.com/ddgksf2013)
 ### 分流规则、重写规则及脚本维护者
 - [@blackmatrix7](https://github.com/blackmatrix7)
 ### 解锁完整的Apple功能和集成服务维护者
