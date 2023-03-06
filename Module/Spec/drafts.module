@@ -3,5 +3,6 @@
 
 [Script]
 Drafts=type=http-response,pattern=^https:\/\/backend\.getdrafts\.com\/api\/v1\/verification\/verify_receipt,requires-body=1,script-path=https://raw.githubusercontent.com/Fedlimit/Script/main/drafts.js
+
 [MITM]
 hostname = %APPEND% backend.getdrafts.com
