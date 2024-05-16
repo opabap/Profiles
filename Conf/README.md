@@ -17,7 +17,7 @@
 **Surge最低支持版本 :**<br>
 >**AppStore 版 5.11.1 或更新版本**<br>
 ### 2. 配置文件链接
-> **适合Surge 5卡片视图（英文） :** https://raw.githubusercontent.com/opabap/Profiles/main/Conf/Surge-EN.conf<br>
+> **完整版 :** https://raw.githubusercontent.com/opabap/Profiles/main/Conf/Surge.conf<br>
 
 ### 3. 使用方式
 复制配置链接 -> 打开 Surge -> 从URL下载配置 -> 粘贴链接 -> 在文本模式中编辑 -> 修改“外部节点”的对应参数 -> 完成!
