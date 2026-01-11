@@ -33,7 +33,6 @@
 - [@TributePaulWalker](https://github.com/TributePaulWalker)
 - [@deezertidal](https://github.com/deezertidal)
 - [@app2smile](https://github.com/app2smile)
-- [@deezertidal](https://github.com/deezertidal)
 - [@Rabbit-Spec](https://github.com/Rabbit-Spec)
 - [@Maasea](https://github.com/Maasea)
 - [@ddgksf2013](https://github.com/ddgksf2013)
